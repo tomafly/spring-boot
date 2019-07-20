@@ -18,5 +18,4 @@ public class SpringBootWebApplicationTests {
     public void contextLoads() {
         System.out.println(emp);
     }
-
 }
