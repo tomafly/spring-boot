@@ -1,0 +1,15 @@
+server:
+  port: 8082
+
+emp:
+  name: maanfei
+  age: 26
+  salary: 3000
+  birthday: 1988/12/08
+  skill:
+    - java
+    - python
+    - hadhoop
+  fortes:
+    name: jave
+    time: 2
